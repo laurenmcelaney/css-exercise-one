@@ -46,7 +46,7 @@ table {
 	border-collapse: collapse;
 	border-spacing: 0;
 }
-
+/*stylebody*/
 body
   font-size: 14px;
 }
@@ -63,7 +63,7 @@ section {
   margin: 0 auto;
   width: 60%;
 }
-
+/*header*/
 h1 {
   font-family sans-serif;
   font-size: 2em;
@@ -79,7 +79,7 @@ h3.example {
   text-align center
 }
 
-
+/*element*/
 .element {
   background-color: green;
   height: 100px;
